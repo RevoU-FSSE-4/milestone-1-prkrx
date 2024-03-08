@@ -14,6 +14,11 @@ git clone https://github.com/RevoU-FSSE-4/milestone-1-richo_wardiyanto
 cd milestone-1-richo_wardiyanto
 ```
 
+## Repository and Domain
+
+-   [GitHub Repository](https://github.com/RevoU-FSSE-4/milestone-1-richo_wardiyanto)
+-   Orbitours.com ([Live Website](https://richowardiyanto.site/))
+
 ## Deploy
 
 ### Create Vercel site from GitHub repository
